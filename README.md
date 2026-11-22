@@ -30,9 +30,9 @@ Utilize sempre fonte adequada, proteções e atenção ao trabalhar próximo a p
 
 Conecte-se com a PoularasTech
 
-Site: https://poularastech.com
-Instagram: @poularastech
-GitHub: https://github.com/poularastech-hash
+Site: https://poularastech.com  
+Instagram: @poularastech  
+GitHub: https://github.com/poularastech-hash  
 
-Licença
+Licença  
 Este projeto está distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
